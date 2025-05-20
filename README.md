@@ -1,5 +1,5 @@
 # IBMGAPROM
-## Generative AI for Product Managers Specialization
+## Generative AI for Product Managers Specialization (4 course series)
 
 Be it task automation or user experience personalization, generative AI is revolutionizing how we design and develop products. This specialization will help Product Managers, new and experienced, to become well-versed with generative AI and gain insights on how to leverage this technology to their advantage.
 
